@@ -6,7 +6,8 @@
         "movie_description": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.",
         "movie_link": "http://www.imdb.com/title/tt0093779/?ref_=ttpl_pl_tt",
         "movie_actors": ["Cary Elwes", "Mandy Patinkin", "Robin Wright"],
-        "year_released": 1987
+        "year_released": 1987,
+        "rating": "PG" 
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "movie_description": "Two business rivals who despise each other in real life unwittingly fall in love over the Internet.",
         "movie_link": "http://www.imdb.com/title/tt0128853/",
         "movie_actors": ["Tom Hanks", "Meg Ryan", "Greg Kinnear"],
-        "year_released": 1998
+        "year_released": 1998,
+        "rating": "PG"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "movie_description": "Unlucky-in-love Stella jets to Jamaica with her gal pal Delilah for some fun in the sun. There, Stella has an island fling with Winston. When it's time to return home, Stella realizes that she's developed real feelings for her new man. But does a real relationship stand a chance?",
         "movie_link": "http://www.imdb.com/title/tt0120703/",
         "movie_actors": ["Angela Bassett", "Taye Diggs", "Whoopi Goldberg"],
-        "year_released": 1998
+        "year_released": 1998,
+        "rating": "R"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "movie_description": "A Chinese-American woman and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations.",
         "movie_link": "http://www.imdb.com/title/tt0384504/?ref_=fn_al_tt_1",
         "movie_actors": ["Joan Chen", "Michelle Krusiec", "Lynn Chen"],
-        "year_released": 2004
+        "year_released": 2004,
+        "rating": "R"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "movie_description": "While helping his latest client woo the fine lady of his dreams, a professional 'date doctor' finds that his game doesn't quite work on the gossip columnist with whom he's smitten.",
         "movie_link": "http://www.imdb.com/title/tt0386588/",
         "movie_actors": ["Will Smith", "Eva Mendes", "Kevin James"],
-        "year_released": 2005
+        "year_released": 2005,
+        "rating": "PG-13"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "movie_description": "An I.R.S. auditor suddenly finds himself the subject of narration only he can hear: narration that begins to affect his entire life, from his work, to his love-interest, to his death.",
         "movie_link": "http://www.imdb.com/title/tt0420223/",
         "movie_actors": ["Will Ferrell", "Emma Thompson", "Maggie Gyllenhaal", "Dustin Hoffman"],
-        "year_released": 2006
+        "year_released": 2006,
+        "rating": "PG-13"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "movie_description": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
         "movie_link": "http://www.imdb.com/title/tt0259446/",
         "movie_actors": ["Nia Vardalos", "John Corbett", "Michael Constantine"],
-        "year_released": 2002
+        "year_released": 2002,
+        "rating": "PG"
     },
     {
         "id": 8,
@@ -69,6 +76,7 @@
         "movie_description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil queen, where she falls in love with a lawyer.",
         "movie_link": "http://www.imdb.com/title/tt0461770/",
         "movie_actors": ["Amy Adams", "Patrick Dempsey", "Susan Sarandon", "James Marsden"],
-        "year_released": 2007
+        "year_released": 2007,
+        "rating": "PG"
     }
 ]
